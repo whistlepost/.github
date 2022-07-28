@@ -7,7 +7,7 @@ and model frameworks, Whistlepost provides a simple, but powerful approach to bu
 
 ## Getting Started
 
-The simplest way to try Whistlepost is to clone the whistlepost-launcher repository and run:
+The simplest way to try Whistlepost is to clone the [whistlepost-launcher](https://github.com/whistlepost/whistlepost-launcher) repository and run:
 
     $ make launch
 
