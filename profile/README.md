@@ -1,4 +1,4 @@
-# Welcone to Whistlepost
+# Welcome to Whistlepost
 
 Whistlepost is a Web publishing platform built on the innovative [Apache Sling](https://sling.apache.org) project.
 
